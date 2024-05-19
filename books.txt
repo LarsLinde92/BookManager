@@ -1,0 +1,31 @@
+Fiction,1984,George Orwell
+Fantasy,A Game of Thrones,George R.R. Martin
+Mystery,Big Little Lies,Liane Moriarty
+Fiction,Brave New World,Aldous Huxley
+Horror,Dracula,Bram Stoker
+Science Fiction,Dune,Frank Herbert
+Science Fiction,Ender's Game,Orson Scott Card
+Science Fiction,Foundation,Isaac Asimov
+Horror,Frankenstein,Mary Shelley
+Mystery,Gone Girl,Gillian Flynn
+Fantasy,Harry Potter and the Sorcerer's Stone,J.K. Rowling
+Mystery,In the Woods,Tana French
+Love,Me Before You,Jojo Moyes
+Fiction,Moby Dick,Herman Melville
+Science Fiction,Neuromancer,William Gibson
+Love,Outlander,Diana Gabaldon
+Horror,Pet Sematary,Stephen King
+Love,Pride and Prejudice,Jane Austen
+Mystery,The Da Vinci Code,Dan Brown
+Horror,The Exorcist,William Peter Blatty
+Mystery,The Girl with the Dragon Tattoo,Stieg Larsson
+Fiction,The Great Gatsby,F. Scott Fitzgerald
+Fantasy,The Hobbit,J.R.R. Tolkien
+Science Fiction,The Left Hand of Darkness,Ursula K. Le Guin
+Love,The Notebook,Nicholas Sparks
+Horror,The Shining,Stephen King
+Love,The Time Traveler's Wife,Audrey Niffenegger
+Fantasy,The Way of Kings,Brandon Sanderson
+Fiction,To Kill a Mockingbird,Harper Lee
+Romatic,Killing in the name of jesus,Lars Linde
+Romatic,Love at first sight,Alex Abrahamsson
